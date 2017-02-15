@@ -1,0 +1,17 @@
+"Data generated on Tuesday, February 14, 2017 at 2:13:14 PM EST"
+Area/Partners of Destination,,,,,January - December
+And Commodities Exported,,,,,Values in Thousands of dollars
+,,,,2011,2012,2013,2014,2015,2016,
+,Partner,,Product,Value,Value,Value,Value,Value,Value,Reporter Code,Partner Code,Product Code,
+"1","World Total","1","   FAS Agricultural Total","136,444,449","141,550,211","144,356,064","149,983,066","133,052,531","134,888,570","US","R00","M1",
+"2","Canada","1","   FAS Agricultural Total","19,040,892","20,626,896","21,374,899","21,962,897","20,991,379","20,242,257","US","CA","M1",
+"3","European Union-28","1","   FAS Agricultural Total","9,677,865","10,114,460","11,901,786","12,564,857","12,133,204","11,506,699","US","R25","M1",
+"4","Japan","1","   FAS Agricultural Total","14,066,243","13,503,154","12,230,822","13,154,121","11,131,568","11,060,341","US","JA","M1",
+"5","Korea, South","1","   FAS Agricultural Total","6,976,255","6,030,820","5,257,137","6,883,311","6,027,551","6,201,549","US","KS","M1",
+"6","Taiwan","1","   FAS Agricultural Total","3,612,418","3,210,422","3,081,006","3,488,769","3,149,427","3,238,736","US","TW","M1",
+"7","Switzerland(!)","1","   FAS Agricultural Total","338,171","299,665","467,177","395,814","466,706","422,599","US","SR","M1",
+"","Grand Total","","","190,156,294","195,335,627","198,668,891","208,432,836","186,952,365","187,560,750",
+"Notes:"
+"1. Data Source: U.S. Census Bureau Trade Data"
+"2. (!) denotes a country which is summarized into its obsolete country."
+"3. Product Group : FAS &#40;Agricultural&#41;"
