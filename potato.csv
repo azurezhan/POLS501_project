@@ -1,0 +1,22 @@
+"Data generated on Sunday, February 19, 2017 at 9:09:06 PM EST"
+Area/Partners of Destination,,,,,January - December
+And Commodities Exported,,,,,Values in Thousands of dollars
+,,,,,2011,2012,2013,2014,2015,2016,
+,Partner,,HS Code,Product,Value,Value,Value,Value,Value,Value,Reporter Code,Partner Code,Product Code,
+"1","World Total","1","0701900050","POT XSD <1201 KG","16,558","11,913","12,300","12,356","11,380","14,754","US","R00","0701900050",
+"1","World Total","2","0701100000","POTATO,SD,FR/CH","10,001","8,519","7,968","7,809","7,719","6,907","US","R00","0701100000",
+"2","Taiwan","1","0701900050","POT XSD <1201 KG","1,129","1,871","1,101","1,293","1,307","4,261","US","TW","0701900050",
+"2","Taiwan","2","0701100000","POTATO,SD,FR/CH","118","533","534","313","371","465","US","TW","0701100000",
+"3","Canada","1","0701100000","POTATO,SD,FR/CH","4,173","4,531","3,862","2,789","3,485","2,387","US","CA","0701100000",
+"4","Japan","1","0701900050","POT XSD <1201 KG","0","0","0","0","12","191","US","JA","0701900050",
+"4","Japan","2","0701100000","POTATO,SD,FR/CH","0","6","0","156","161","0","US","JA","0701100000",
+"5","European Union-28","1","0701900050","POT XSD <1201 KG","1,041","10","24","12","0","87","US","R25","0701900050",
+"5","European Union-28","2","0701100000","POTATO,SD,FR/CH","22","0","149","0","102","60","US","R25","0701100000",
+"6","Korea, South","1","0701900050","POT XSD <1201 KG","3,039","1,530","282","0","19","78","US","KS","0701900050",
+"6","Korea, South","2","0701100000","POTATO,SD,FR/CH","0","637","131","936","66","55","US","KS","0701100000",
+"7","Switzerland(!)","1","0701900050","POT XSD <1201 KG","0","4","0","0","0","0","US","SR","0701900050",
+"","Grand Total","","","","36,082","29,554","26,351","25,665","24,622","29,244",
+"Notes:"
+"1. Data Source: U.S. Census Bureau Trade Data"
+"2. (!) denotes a country which is summarized into its obsolete country."
+"3. Product Group : FAS &#40;Agricultural&#41;"

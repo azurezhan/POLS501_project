@@ -1,0 +1,21 @@
+"Data generated on Sunday, February 19, 2017 at 9:15:03 PM EST"
+Area/Partners of Destination,,,,,January - December
+And Commodities Exported,,,,,Values in Thousands of dollars
+,,,,,2011,2012,2013,2014,2015,2016,
+,Partner,,HS Code,Product,Value,Value,Value,Value,Value,Value,Reporter Code,Partner Code,Product Code,
+"1","World Total","1","0805505090","LIMES, FD","0","0","0","0","3,404","4,283","US","R00","0805505090",
+"1","World Total","2","0805505050","LIMES, FRESH/DR","3,355","4,675","5,493","5,875","0","0","US","R00","0805505050",
+"2","Canada","1","0805505090","LIMES, FD","0","0","0","0","2,517","2,476","US","CA","0805505090",
+"2","Canada","2","0805505050","LIMES, FRESH/DR","2,293","3,308","4,135","3,799","0","0","US","CA","0805505050",
+"3","European Union-28","1","0805505090","LIMES, FD","0","0","0","0","4","485","US","R25","0805505090",
+"3","European Union-28","2","0805505050","LIMES, FRESH/DR","7","0","15","0","0","0","US","R25","0805505050",
+"4","Japan","1","0805505090","LIMES, FD","0","0","0","0","67","304","US","JA","0805505090",
+"4","Japan","2","0805505050","LIMES, FRESH/DR","0","20","14","89","0","0","US","JA","0805505050",
+"5","Korea, South","1","0805505090","LIMES, FD","0","0","0","0","323","14","US","KS","0805505090",
+"5","Korea, South","2","0805505050","LIMES, FRESH/DR","5","147","191","680","0","0","US","KS","0805505050",
+"6","Switzerland(!)","1","0805505090","LIMES, FD","0","0","0","0","0","10","US","SR","0805505090",
+"","Grand Total","","","","5,661","8,151","9,847","10,444","6,313","7,572",
+"Notes:"
+"1. Data Source: U.S. Census Bureau Trade Data"
+"2. (!) denotes a country which is summarized into its obsolete country."
+"3. Product Group : FAS &#40;Agricultural&#41;"

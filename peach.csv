@@ -1,0 +1,23 @@
+"Data generated on Sunday, February 19, 2017 at 9:19:40 PM EST"
+Area/Partners of Destination,,,,,January - December
+And Commodities Exported,,,,,Values in Thousands of dollars
+,,,,,2011,2012,2013,2014,2015,2016,
+,Partner,,HS Code,Product,Value,Value,Value,Value,Value,Value,Reporter Code,Partner Code,Product Code,
+"1","World Total","1","0809309000","PEACH,NCTR NESOI","0","0","0","0","134,879","133,094","US","R00","0809309000",
+"1","World Total","2","0809300000","PEACHES,NCTRNS,F","148,045","173,352","166,967","177,821","0","0","US","R00","0809300000",
+"2","Canada","1","0809309000","PEACH,NCTR NESOI","0","0","0","0","70,196","68,792","US","CA","0809309000",
+"2","Canada","2","0809300000","PEACHES,NCTRNS,F","71,221","79,194","76,452","79,392","0","0","US","CA","0809300000",
+"3","Taiwan","1","0809309000","PEACH,NCTR NESOI","0","0","0","0","24,312","24,834","US","TW","0809309000",
+"3","Taiwan","2","0809300000","PEACHES,NCTRNS,F","24,108","31,907","37,114","27,409","0","0","US","TW","0809300000",
+"4","Japan","1","0809309000","PEACH,NCTR NESOI","0","0","0","0","0","341","US","JA","0809309000",
+"4","Japan","2","0809300000","PEACHES,NCTRNS,F","15","0","0","0","0","0","US","JA","0809300000",
+"5","European Union-28","1","0809309000","PEACH,NCTR NESOI","0","0","0","0","22","189","US","R25","0809309000",
+"5","European Union-28","2","0809300000","PEACHES,NCTRNS,F","526","371","225","6","0","0","US","R25","0809300000",
+"6","Korea, South","1","0809309000","PEACH,NCTR NESOI","0","0","0","0","4","30","US","KS","0809309000",
+"6","Korea, South","2","0809300000","PEACHES,NCTRNS,F","52","140","22","67","0","0","US","KS","0809300000",
+"7","Switzerland(!)","1","0809300000","PEACHES,NCTRNS,F","0","0","0","11","0","0","US","SR","0809300000",
+"","Grand Total","","","","243,966","284,965","280,780","284,707","229,413","227,280",
+"Notes:"
+"1. Data Source: U.S. Census Bureau Trade Data"
+"2. (!) denotes a country which is summarized into its obsolete country."
+"3. Product Group : FAS &#40;Agricultural&#41;"
